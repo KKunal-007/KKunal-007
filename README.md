@@ -145,6 +145,31 @@ and understanding how data can help people and businesses make better decisions.
 
 </div>
 
+<h2 align="center">🌷 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://github.com/KKunal-007">
+<img src="https://img.shields.io/badge/GitHub-✨-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/kunal-suranje-4485152b0/">
+<img src="https://img.shields.io/badge/LinkedIn-💼-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/kkunal._7/">
+<img src="https://img.shields.io/badge/Instagram-📸-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="kunal._7">
+<img src="https://img.shields.io/badge/Discord-💬-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180">
+
+</div>
 ---
 
 <h2 align="center">🐍 Python Projects</h2>
